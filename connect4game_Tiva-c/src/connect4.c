@@ -4,7 +4,6 @@
 #include "Random.h"
 #include "TExaS.h"
 #include "img.h"
-#include "UART.h"
 #include <stdio.h>
 void Delay100ms(unsigned long count);
 	
